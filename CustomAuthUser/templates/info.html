@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block title %}Info{% endblock %}
+
+{% block main %}
+<table>
+  <thead>
+    <td>Email</td>
+    <td>Username</td>
+  </thead>
+  <tbody>
+    {% for user in users %}
+    <tr>
+      <td>{{ user.email }}</td>
+      <td>{{ user.username }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
