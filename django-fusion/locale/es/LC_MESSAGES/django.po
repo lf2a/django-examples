@@ -1,0 +1,203 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-16 15:47-0300\n"
+"PO-Revision-Date: 2020-05-16 15:51-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: core/forms.py:7 core/forms.py:18 core/models.py:56 core/models.py:86
+msgid "Nome"
+msgstr "Nombre"
+
+#: core/forms.py:8 core/forms.py:19
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: core/forms.py:9 core/forms.py:20
+msgid "Assunto"
+msgstr "Asunto"
+
+#: core/forms.py:10 core/forms.py:21
+msgid "Mensagem"
+msgstr "Mesaje"
+
+#: core/models.py:15
+msgid "Criação"
+msgstr "Creacíon"
+
+#: core/models.py:16
+msgid "Atualização"
+msgstr "Actualizacíon"
+
+#: core/models.py:17
+msgid "Ativo"
+msgstr "¿Activo?"
+
+#: core/models.py:25 core/models.py:82
+msgid "Engrenagem"
+msgstr "Engranaje"
+
+#: core/models.py:26
+msgid "Gráfico"
+msgstr "Gráfico"
+
+#: core/models.py:27
+msgid "Usuários"
+msgstr "Los usuarios"
+
+#: core/models.py:28
+msgid "Design"
+msgstr "Diseño"
+
+#: core/models.py:29
+msgid "Mobile"
+msgstr "Móvil"
+
+#: core/models.py:30 core/models.py:80
+msgid "Foguete"
+msgstr "Cohete"
+
+#: core/models.py:32 core/models.py:37
+msgid "Serviço"
+msgstr "Servicio"
+
+#: core/models.py:33
+msgid "Descrição"
+msgstr "descripción"
+
+#: core/models.py:34 core/models.py:87
+msgid "Icone"
+msgstr "Icono"
+
+#: core/models.py:38 core/templates/base.html:50
+msgid "Serviços"
+msgstr "Servicios"
+
+#: core/models.py:45 core/models.py:48 core/models.py:57
+msgid "Cargo"
+msgstr "Oficina"
+
+#: core/models.py:49
+msgid "Cargos"
+msgstr "Publicaciones"
+
+#: core/models.py:58
+msgid "Bio"
+msgstr "Bio"
+
+#: core/models.py:59
+msgid "Imagem"
+msgstr "Imagen"
+
+#: core/models.py:71
+msgid "Funcionário"
+msgstr "Empleado"
+
+#: core/models.py:72
+msgid "Funcionários"
+msgstr "Empleados"
+
+#: core/models.py:81
+msgid "Responsivo"
+msgstr "Sensible"
+
+#: core/models.py:83
+msgid "Folha"
+msgstr "hoja"
+
+#: core/models.py:84
+msgid "Camadas"
+msgstr "Capas"
+
+#: core/models.py:88
+msgid "Descricao"
+msgstr "Descripción"
+
+#: core/models.py:91
+msgid "Recurso"
+msgstr "Recurso"
+
+#: core/models.py:92
+msgid "Recursos"
+msgstr "Recursos"
+
+#: core/templates/404.html:12
+msgid "Página não encontrada."
+msgstr "Página no encontrada."
+
+#: core/templates/404.html:13
+msgid "Infelizmente a página que você procura não está disponível"
+msgstr "Lamentablemente, la página que busca no está disponible"
+
+#: core/templates/404.html:15 core/templates/500.html:15
+msgid "Volte para a página principal"
+msgstr "Volver a la página principal"
+
+#: core/templates/500.html:12
+msgid "Erro de processamento."
+msgstr "Error de proceso."
+
+#: core/templates/500.html:13
+msgid "Infelizmente não foi possível processar a requisição."
+msgstr "Lamentablemente, no fue posible procesar la solicitud."
+
+#: core/templates/base.html:45
+msgid "Inicío"
+msgstr "Comienzo"
+
+#: core/templates/base.html:55
+msgid "Equipe"
+msgstr "Equipo"
+
+#: core/templates/base.html:60
+msgid "Preços"
+msgstr "Precios"
+
+#: core/templates/base.html:65
+msgid "Clientes"
+msgstr "Clientes"
+
+#: core/templates/base.html:70
+msgid "Contato"
+msgstr "Contacto"
+
+#: core/templates/hero.html:9
+msgid "Com a"
+msgstr "Con el"
+
+#: core/templates/hero.html:9
+msgid "Fusion"
+msgstr "Fusion"
+
+#: core/templates/hero.html:10
+msgid "Você irá mais longe!"
+msgstr "¡Irás más lejos!"
+
+#: core/templates/hero.html:12
+msgid "Saiba mais"
+msgstr "Sepa mas"
+
+#: core/templates/hero.html:13
+msgid "Entre em contato"
+msgstr "Entre en contacto"
+
+#: core/views.py:30
+msgid "E-mail enviado com sucesso"
+msgstr "Email enviado con éxito"
+
+#: core/views.py:34
+msgid "Erro ao enviar e-mail"
+msgstr "Error al enviar correo electrónico"
